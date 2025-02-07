@@ -26,10 +26,10 @@ To view the presentation:
 
 1. Clone this repository to your local machine using:
    ```bash
-   git clone https://github.com/
+   https://github.com/viraj2510/codeAlpha_Information_about_phishing.git
    ```
 
-2. Open the PowerPoint file (`Phishing_Attacks_Presentation.pptx`) to start exploring the content.
+2. Open the PowerPoint file (`Information_about_phishing.pptx`) to start exploring the content.
 
 Contribution
 
